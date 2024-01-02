@@ -3,7 +3,7 @@
 <h3 align="center">Passionate to AWS & DevOps Ready to Transform Cloud Infrastructure from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Ashishm96/Ashishm96/main/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AshishM96&label=Profile%20views&color=0e75b6&style=flat" alt="AshishM96" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashishm96&label=Profile%20views&color=0e75b6&style=flat" alt="Ashishm96" /> </p>
 
 
 - 🌱 I’m currently learning **AWS Cloud and DevOps**
