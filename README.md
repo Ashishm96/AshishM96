@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Makasare</h1>
-<div align="center"> <img src="https://github.com/Ashishm96/Ashishm96/blob/93de6a39b3cbbd3269dbbef584527893ee520327/BannerGithub.png"> </div>
+<div align="center"> <img src="img src="https://raw.githubusercontent.com/Ashishm96/Ashishm96/main/BannerGithub.png"> </div>
 <h3 align="center">Passionate to AWS & DevOps Ready to Transform Cloud Infrastructure from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Ashishm96/Ashishm96/main/giphy.gif">
 
