@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ashishmakasare24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1es6nXM6w_0TLtcNkczwm2f_sFvwofBUn/view?usp=drive_link](https://drive.google.com/file/d/1es6nXM6w_0TLtcNkczwm2f_sFvwofBUn/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1es6nXM6w_0TLtcNkczwm2f_sFvwofBUn/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
