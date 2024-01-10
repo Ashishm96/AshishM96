@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **AWS Cloud and DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ashishm96](https://github.com/Ashishm96)
+- 👨‍💻 All of my projects are available at [Github - Ashishm96](https://github.com/Ashishm96)
 
-- 📝 I regularly write articles on [https://medium.com/@ashishmakasare24](https://medium.com/@ashishmakasare24)
+- 📝 I regularly write articles on [@ashishmakasare24](https://medium.com/@ashishmakasare24)
 
 - 💬 Ask me about **AWS & DevOps**
 
