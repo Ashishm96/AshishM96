@@ -26,7 +26,7 @@
 </p>
 
 
-<h3 align="left">Trophies::</h3>
+<h3 align="left">Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ashishm96" alt="Ashishm96" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
